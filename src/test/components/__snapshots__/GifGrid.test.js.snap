@@ -29,11 +29,6 @@ exports[`pruebas en el componente GifGrid should debe regresar la informacion | 
     One Punch
      
   </h3>
-  <p
-    className="animated__animated animate_flash"
-  >
-    loading
-  </p>
   <div
     className="card-grid"
   />
